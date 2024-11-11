@@ -6,7 +6,6 @@ import {
   Link,
   Routes
 } from "react-router-dom"
-import { Typography } from '@mui/material';
 import HomePage from './Pages/HomePage';
 import AboutPage from './Pages/AboutPage';
 
